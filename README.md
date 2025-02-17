@@ -9,7 +9,7 @@ The script provides a seamless way to load programming examples directly into Mo
 - Automatic code fetching from specialized programming resources
 - Support for multiple programming languages (JavaScript, Python, Java, C++, TypeScript)
 - Smart filtering to ensure high-quality, readable code examples
-- Convenient keyboard shortcut (Ctrl+Shift+L) and floating button interface
+- Convenient keyboard shortcut (Ctrl+Shift+K) and floating button interface
 - Automatic cleanup and formatting of code snippets
 - Fallback sources to ensure reliable operation
 
