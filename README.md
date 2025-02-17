@@ -21,7 +21,7 @@ The script provides a seamless way to load programming examples directly into Mo
    - [Edge Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 2. Click the following link to install the script:
-   [Install MonkeyType Code Practice Loader](https://raw.githubusercontent.com/xtrayssss/monkeytype-code-practice-loader/main/src/monkeytype-code-loader.user.js)
+   [Install MonkeyType Code Practice Loader](https://github.com/xtrayssss/monkeytype-code-practice-loader/raw/refs/heads/main/src/monkeytype-code-loader.user.js)
 
 3. Tampermonkey will automatically detect the script and open its installation page
 4. Click "Install" to complete the setup
